@@ -2,6 +2,13 @@
 a nural network program to for understanding mnist hand written numbers
 this is a program in development , here i have made a simple nural network with 3 layers to understand handwritten number images from mnist dataset
 
+https://user-images.githubusercontent.com/53306550/118759194-2d4fbf80-b88e-11eb-8d88-6a017db928c7.mp4
+
+
+
+
+
+
 ## To Run this locally on your machine:
 
 First,clone the repository to your local machine:
